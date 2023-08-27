@@ -1,1 +1,1 @@
-# dmenu-5.2
+# dmenu-5.2 + patch
