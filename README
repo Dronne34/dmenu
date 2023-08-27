@@ -16,6 +16,7 @@ change /usr/local to .local/bin
 make clean
 make install
 
+
 Afterwards enter the following command to build and install dmenu
 (if necessary as root):
 
